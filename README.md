@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manikhossain27&label=Profile%20views&color=0e75b6&style=flat" alt="manikhossain27" /> </p>
+
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Rubel+Hosain" />
 </h2>
 
