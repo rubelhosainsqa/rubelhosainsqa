@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://pbs.twimg.com/media/F5htusZaMAANIJ5?format=jpg&name=small" alt="rubelhosainsqa" /> </p>
+<p align="center"> <img src="https://pbs.twimg.com/media/F5htusZaMAANIJ5?format=jpg&name=small" alt="rubelhosainsqa" /> </p>
 # 💫 About Me:
 🔭 I’m currently working on Automation, Manual, API and Performance Testing<br>🌱 I'm always trying to increase SQA Knowledge<br>💬 Ask me about Manual Testing, API Testing, Performance Testing, Database Testing, Project Management, Automation Testing, Security Testing, Source and Version Control<br>📫 How to reach me: sqaengineerrubel@gmail.com<br>⚡ Fun fact -  I think I am Funny
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
