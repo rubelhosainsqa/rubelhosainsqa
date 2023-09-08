@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Automation, Manual, API and Performance Testing<br>🌱 I'm always trying to increase SQA Knowledge<br>💬 Ask me about Manual Testing, API Testing, Performance Testing, Database Testing, Project Management, Automation Testing, Security Testing, Source and Version Control<br>📫 How to reach me: sqaengineerrubel@gmail.com<br>⚡ Fun fact -  I think I am Funny
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rubelhosain.dm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rubelhosain_digitalmarketer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rubelhosain) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rubelhosain_) 
