@@ -4,7 +4,7 @@
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=A+Passionate+Software+Quality+Assurance+Engineer" alt="Typing SVG" /></a></h3>
 
-![Cover photo](https://github.com/ManikHossain27/ManikHossain27/assets/131261253/db8c04ed-6f09-4926-a763-3ba8d0d8725b)
+![Cover photo]([https://github.com/ManikHossain27/ManikHossain27/assets/131261253/db8c04ed-6f09-4926-a763-3ba8d0d8725b](https://pbs.twimg.com/media/F5htusZaMAANIJ5?format=jpg&name=small))
 # 💫 About Me:
 🔭 I’m currently working on Automation, Manual, API and Performance Testing<br>🌱 I'm always trying to increase SQA Knowledge<br>💬 Ask me about Manual Testing, API Testing, Performance Testing, Database Testing, Project Management, Automation Testing, Security Testing, Source and Version Control<br>📫 How to reach me: sqaengineerrubel@gmail.com<br>⚡ Fun fact -  I think I am Funny
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
