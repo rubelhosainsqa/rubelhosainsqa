@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="[[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://pbs.twimg.com/media/F5htusZaMAANIJ5?format=jpg&name=small)](https://media.licdn.com/dms/image/D4D22AQFbpIyqNEn19w/feedshare-shrink_800/0/1694203411221?e=1697068800&v=beta&t=yvK5eYNB3ljh8NfTqmEguvJ6qFz3d5a90kU3kWgzqTs)">
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda](https://media.licdn.com/dms/image/D4D22AQFbpIyqNEn19w/feedshare-shrink_800/0/1694203411221?e=1697068800&v=beta&t=yvK5eYNB3ljh8NfTqmEguvJ6qFz3d5a90kU3kWgzqTs)" /> </p>
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Rubel+Hosain" />
 </h2>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=A+Passionate+Software+Quality+Assurance+Engineer" alt="Typing SVG" /></a></h3>
