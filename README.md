@@ -1,3 +1,4 @@
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Manik+Hossain" /> </h2>
 # 💫 About Me:
 🔭 I’m currently working on Automation, Manual, API and Performance Testing<br>🌱 I'm always trying to increase SQA Knowledge<br>💬 Ask me about Manual Testing, API Testing, Performance Testing, Database Testing, Project Management, Automation Testing, Security Testing, Source and Version Control<br>📫 How to reach me: sqaengineerrubel@gmail.com<br>⚡ Fun fact -  I think I am Funny
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
