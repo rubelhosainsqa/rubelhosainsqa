@@ -27,5 +27,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/rubelhosainsqa/rubelhosainsqa/blob/output/github-contribution-grid-snake.svg)
+
